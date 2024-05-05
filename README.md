@@ -69,7 +69,9 @@ plt.show()
 ```
 
 ### OUTPUT:
-![ts101](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/92610baa-7f7b-428d-81fd-06dcf71f0172)
+![ll](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/fe2d923d-e993-45b5-b725-04db01d2cd71)
+![mm](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/6db879dd-372c-447b-8eb1-cc3ce78426de)
+
 ![ts102](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/23eadb04-d931-4ded-9adf-c20ae69a7810)
 
 
