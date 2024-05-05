@@ -71,8 +71,9 @@ plt.show()
 ### OUTPUT:
 ![ll](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/fe2d923d-e993-45b5-b725-04db01d2cd71)
 ![mm](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/6db879dd-372c-447b-8eb1-cc3ce78426de)
+![oo](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/74c105ea-457f-44c8-ac67-b49fc4ca9cd0)
+![pp](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/37afe4ae-5b10-4c67-bc3e-03c60d58e895)
 
-![ts102](https://github.com/Kishore00007/TSA_EXP10/assets/94233985/23eadb04-d931-4ded-9adf-c20ae69a7810)
 
 
 
